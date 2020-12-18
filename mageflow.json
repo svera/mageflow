@@ -1,0 +1,17 @@
+{
+    "repos": {
+        "ce": "/Users/svera/Documents/repos/magento/ce",
+        "ee": "/Users/svera/Documents/repos/magento/ee",
+        "b2b": "/Users/svera/Documents/repos/magento/b2b"
+    },
+    "organisation": "github.com/magento-lynx",
+    "github": {
+        "token": "AAPSADFOKERWOCIOJEDCOKOERJROCVJROJVROJVROVJ" 
+    },
+    "jenkins": {
+        "credentials": {
+            "users": "user",
+            "password": "password"
+        }
+    }
+}
